@@ -7,6 +7,7 @@ This project is part of a challenge provided by Arvato Bertelsmann. The objectiv
 
 ## Structure
 
+```bash
 ├── code
 │   ├── Part 0 - Get to Know the Data.ipynb
 │   ├── Part 1 - Customer Segmentation.ipynb
@@ -15,6 +16,7 @@ This project is part of a challenge provided by Arvato Bertelsmann. The objectiv
 │       └── preprocessing.py
 └── files
     └── readme.txt
+```
 
 * Part 0 - Get to Know the Data.ipynb: Jupyter notebook with data preprocessing and analysis
 * Part 1 - Customer Segmentation.ipynb: Jupyter notebook with customer segmentation
