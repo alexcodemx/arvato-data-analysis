@@ -34,3 +34,4 @@ You need to install the following:
 3. pandas
 4. sklearn
 5. matplotlib
+6. notebook
