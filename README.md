@@ -2,8 +2,16 @@
 
 This project is part of a challenge provided by Arvato Bertelsmann. The objective is to determine which individuals are more likely to become new customers of a mail-order company based in Germany. The analysis has three major phases: 
 1. Part 0 - Get to Know the Data
+* Exploratory analysis of the data from customers from the mail order company and the general population of Germany
+* Data Cleaning according to documentation
+* Data Scaling of features
+* Principal component analysis to predict main components
 2. Part 1 - Customer Segmentation
+* K-Means Clustering for identifying the main clusters of both the general population and Germany. Base of this, a comparison was generated to check the relationship between both groups
 3. Part 2 . Supervised Learning
+* Imbalance classes correction for generating the model
+* Test of machine learning models to see which model performs better.
+* Code that generates the final prediction model
 
 ## Structure
 
