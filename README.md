@@ -43,3 +43,4 @@ You need to install the following:
 4. sklearn
 5. matplotlib
 6. notebook
+7. imbalanced-learn
