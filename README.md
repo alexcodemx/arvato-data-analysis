@@ -44,3 +44,10 @@ You need to install the following:
 5. matplotlib
 6. notebook
 7. imbalanced-learn
+
+
+### Results
+
+Check the results from the data analysis and model generation!
+
+Blogpost: https://medium.com/@alejandro_garcia/mail-order-company-data-analysis-e22211623b2
